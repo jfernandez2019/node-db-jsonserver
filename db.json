@@ -1,0 +1,35 @@
+{
+  "Profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "materias": "NodeJS desde cero"
+        },
+        {
+          "materias": "React desde cero"
+        },
+        {
+          "materias": "JAVASCRIPT desde cero"
+        }
+      ]
+    },
+    {
+      "id": "79b6",
+      "nombre": "Jorge",
+      "apellido": "Fernandez",
+      "materias": [
+        {
+          "materias": "Fisica desde cero"
+        },
+        {
+          "materias": "Quimica desde cero"
+        },
+        {
+          "materias": "Matematica desde cero"
+        }
+      ]
+    }
+  ]
+}
